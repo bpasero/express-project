@@ -1,0 +1,17 @@
+{
+	// Express related settings
+	"editor.wordWrap": "off",
+	"editor.codeLens": false,
+
+	// Root Folders
+	"workspaces": [
+		{
+			"path": ".",
+			"additionalFolders": [
+				"./express",
+				"./express-plugin"
+			]
+		}
+	]
+}
+
